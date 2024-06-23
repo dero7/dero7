@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deep Karki.</h1>
-<h3 align="center">Aspiring Software Engineer passionate about Data Structures and Algorithms (DSA) and Machine Learning (ML).Currently honing my skills through projects and challenges, I am eager to apply my knowledge to real-world problems.</h3>
-
+<h3 align="center">Passionate about Data Structures and Algorithms (DSA) and Machine Learning (ML).Currently honing my skills through projects and challenges.</h3>
+<img src="https://i.gifer.com/origin/5a/5ab98406cc6c8fbba9ddb014c2bcdb80_w200.gif" height="250px" width="300px" align="right" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dero7&label=Profile%20views&color=0e75b6&style=flat" alt="dero7" /> </p>
 
 - 🌱 I’m currently learning **DSA and ML.**
 
 - 📫 How to reach me **deepdkarkik@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R13MpnB8Yp6kABubxDzVOjzeRmrArsDS/view?usp=sharing](https://drive.google.com/file/d/1R13MpnB8Yp6kABubxDzVOjzeRmrArsDS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
