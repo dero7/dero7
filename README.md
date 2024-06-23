@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **DSA and ML.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deep-karki-73717b217/](https://www.linkedin.com/in/deep-karki-73717b217/)
-
 - 📫 How to reach me **deepdkarkik@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R13MpnB8Yp6kABubxDzVOjzeRmrArsDS/view?usp=sharing](https://drive.google.com/file/d/1R13MpnB8Yp6kABubxDzVOjzeRmrArsDS/view?usp=sharing)
